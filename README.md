@@ -1,4 +1,9 @@
-Hi 👋 My name is Abhinav
+Main profile-- https://www.github.com/theabhiinavgarg
+
+
+
+
+<!-- Hi 👋 My name is Abhinav
 ========================
 
 Computer Science Enthusiast
@@ -47,3 +52,4 @@ src="https://img.shields.io/github/followers/theabhinavgarg?logo=github&style=fo
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/abhinavgarg"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+ -->
